@@ -1,0 +1,15 @@
+WhatsWhat.txt
+
+This document is intended to guide viewers of this repository through each of the files included.
+
+There are a number of image files used throughout this directory that have been sourced from unsplash.com under their free-for-use proviso. Other images I have captured myself.
+
+
+
+Here is a list of the python scripts inlcuded and their applications:
+				viewImage.py				Demonstrates how to open an image using OpenCV
+				prompt.py 				Demos how OpenCV objects can be utilized within fairly standard code, especially when embedded in another application.
+				drawing.py				illustrates how we can use simple commands to alter the appearance of our image
+				maze.py					Used to practice drawing objects within a cv2 context
+				smoothGreen.py				A script that opens a Web cam feed, detects green colors and then tries to reduce noise through adaptive gaussian threshold techniques
+				videoThresh.py				A small script reads a video feed and emphasizes the outline of text and outline features
